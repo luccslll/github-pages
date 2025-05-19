@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mamãe Reborn - Do Amor à Realidade</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script>
+    function startFlow() {
+      window.open("https://wa.me/5561992902054?text=Quero%20ser%20uma%20Mamãe%20Reborn%20de%20verdade", "_blank");
+    }
+  </script>
+</head>
+<body class="bg-pink-100 text-gray-800">
+  <div class="max-w-3xl mx-auto py-12 px-6">
+    <h1 class="text-4xl font-bold text-center text-pink-700 mb-6">Mamãe Reborn: Do Amor à Realidade 👶💖</h1>
+
+    <p class="text-lg mb-4 text-center">Torne-se uma mamãe Reborn de verdade com nosso curso completo e certificado simbólico 💌</p>
+
+    <div class="bg-white p-6 rounded-2xl shadow-md">
+      <h2 class="text-2xl font-semibold text-pink-600 mb-4">O que você vai aprender:</h2>
+      <ul class="list-disc list-inside mb-6">
+        <li>Cuidados com seu bebê Reborn: banho, troca, carinho</li>
+        <li>Montagem de enxoval, berço, rotina emocional</li>
+        <li>Certidão simbólica e certificado personalizado</li>
+        <li>Aulas práticas + acesso vitalício</li>
+      </ul>
+
+      <div class="bg-pink-200 p-4 rounded-xl mb-4">
+        <p class="text-xl font-bold">🔥 De R$197 por apenas <span class="text-pink-700 text-2xl">R$97</span></p>
+        <p class="text-sm">+ BÔNUS: Kit de Certificados Personalizados 💌</p>
+      </div>
+
+      <button onclick="startFlow()" class="block bg-pink-600 hover:bg-pink-700 text-white text-xl font-bold text-center py-3 rounded-xl shadow-md transition w-full">Quero me tornar uma Mamãe Reborn</button>
+    </div>
+
+    <div class="mt-12 text-center">
+      <p class="text-sm text-gray-600">Mais de <strong>1.200 mães</strong> já vivem essa experiência. Você é a próxima?</p>
+      <p class="text-xs mt-2">Garantia de 7 dias. Certificado simbólico incluído. Curso 100% online.</p>
+    </div>
+
+    <div class="mt-12">
+      <h2 class="text-xl font-bold text-pink-700 mb-2">Vídeo de Apresentação</h2>
+      <video controls class="rounded-xl w-full">
+        <source src="https://www.exemplo.com/vsl.mp4" type="video/mp4">
+        Seu navegador não suporta vídeos.
+      </video>
+    </div>
+  </div>
+</body>
+</html>
